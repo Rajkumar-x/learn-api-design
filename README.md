@@ -2,14 +2,6 @@
 
 Essential learning for people building an API
 
-Joking aside, ***starting*** a project "***from scratch***" is a ***opportunity***
-(and *privilege*) ***few people get***.  
-If you are ***fortunate*** enough to be
-in that position, ***do not take*** the **task** ***lightly***.
-
-
-Building the *interface* for a new project is nothing short of a ***Golden Ticket***! So do your homework *before* you start!
-
 ## Intro
 
 Having a *great* API will make or break your project/product.
