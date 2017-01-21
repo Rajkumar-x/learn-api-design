@@ -2,14 +2,11 @@
 
 Essential learning for people building an API
 
-![Grandma Remote](http://i.imgur.com/pdrRPjm.jpg)
-
 Joking aside, ***starting*** a project "***from scratch***" is a ***opportunity***
 (and *privilege*) ***few people get***.  
 If you are ***fortunate*** enough to be
 in that position, ***do not take*** the **task** ***lightly***.
 
-![golden ticket](http://i.imgur.com/U6a5SCh.jpg)
 
 Building the *interface* for a new project is nothing short of a ***Golden Ticket***! So do your homework *before* you start!
 
